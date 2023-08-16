@@ -7,6 +7,7 @@ import dateutil
 import sys
 
 class colors:
+    green = '\u001b[32m'
     yellow = '\033[93m' 
     red = '\033[91m' 
     bold = '\033[1m'
