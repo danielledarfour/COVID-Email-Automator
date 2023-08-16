@@ -11,6 +11,10 @@ to communicate effectively
 - Incorporates error handling to identify and handle invalid email addresses, guaranteeing the successful delivery of
 notifications
 
+<br></br>
 *Program implemented on Replit*
+
 https://github.com/danielledarfour/COVID-Email-Automator/assets/67208809/601f2764-261a-4898-b44f-6e1a88a2dd6f
+
+## How to Clone and Use Program
 
